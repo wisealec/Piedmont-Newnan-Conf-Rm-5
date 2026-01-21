@@ -1,0 +1,17 @@
+<Device Model="CP4">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-770" DeviceId="16" Name="Touch Panel"/>
+      <Device Model="DM-NVX-E20-2G" DeviceId="18" Name="Front Wallplate"/>
+      <Device Model="DM-NVX-E20-2G" DeviceId="19" Name="Rear Wallplate"/>
+      <Device Model="DM-NVX-E10-E20" DeviceId="1A" Name="Cable TV"/>
+      <Device Model="DM-NVX-E10-E20" DeviceId="1B" Name="Client PC"/>
+      <Device Model="DM-NVX-E10-E20" DeviceId="1C" Name="Codec Out Main"/>
+      <Device Model="DM-NVX-E10-E20" DeviceId="1D" Name="Codec Out Additional"/>
+      <Device Model="DM-NVX-D200" DeviceId="20" Name="Codec Ingest"/>
+      <Device Model="DM-NVX-D200" DeviceId="21" Name="Program Audio"/>
+      <Device Model="DM-NVX-D200" DeviceId="22" Name="Projector"/>
+      <Device Model="DM-NVX-D200" DeviceId="23" Name="Left Side Display"/>
+      <Device Model="DM-NVX-D200" DeviceId="24" Name="Right Side Display"/>
+   </Network>
+</Device>
